@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591371144 source:d:\code\2048\2048\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<sstream>
+
